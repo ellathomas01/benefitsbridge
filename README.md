@@ -2,7 +2,7 @@
 
 ### AI-Powered Benefits Navigator for Santa Clara County
 
-**Helping residents discover assistance programs, understand eligibility requirements, and navigate their next steps—all in one place.**
+**Helping residents discover assistance programs, understand eligibility requirements, and navigate their next steps, all in one place.**
 
 BenefitsBridge is a free, AI-powered benefits navigation platform designed to help residents of Santa Clara County, California, discover government assistance programs and community resources.
 
